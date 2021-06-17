@@ -17,7 +17,7 @@ validate.name("Fam@#");//returns "Name must contain only alphabets"
 ```
 You can also import a subset of library
 ```
-import contact from "validation";
+import name from "validation";
 
 name("Fam");//true
 
