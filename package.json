@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avneet5658/validation-form.git"
+  },
+  "keywords": [
+    "validation",
+    "validator"
+  ],
   "author": "Avneet Pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avneet5658/validation-form/issue"
+  },
+  "homepage": "https://github.com/avneet5658/validation-form"
 }
