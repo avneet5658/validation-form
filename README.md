@@ -4,7 +4,7 @@ Get perfect validation of mostly used form-fields in this package.
 
 # Installation
 
-`npm i validation-form`
+`npm i validations-form`
 
 # Usage
 
