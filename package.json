@@ -1,6 +1,6 @@
 {
   "name": "validation-form",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A simple validation package that helps user to validate their form.",
   "main": "validation.js",
   "scripts": {
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "validation",
-    "validator"
+    "validator",
+    "form-validation",
+    "validation-form"
   ],
   "author": "Avneet Pandey",
   "license": "ISC",
